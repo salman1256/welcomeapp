@@ -1,0 +1,14 @@
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+D:\MPhasis-B3\Phase-4\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
